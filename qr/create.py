@@ -7,7 +7,10 @@ factory = qrcode.image.svg.SvgPathImage
 
 codes = {
     "coll_model_letter": "http://letters.zooniverse.org/letters/86-collaborative_gravitational_lens_modelling_using_spaghettilens_a_spacewarps_project",
-    "spaghetti" : "http://labs.spacewarps.org/spaghetti/"
+    "spaghetti" : "http://labs.spacewarps.org/spaghetti/",
+    'arxiv_marshall' : 'http://arxiv.org/abs/1504.06148',
+    'arxiv_more'     : 'http://arxiv.org/abs/1504.05587',
+    'arxiv_kueng'    : 'http://arxiv.org/abs/1502.00008'
 }
 
 
