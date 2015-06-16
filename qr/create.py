@@ -15,6 +15,6 @@ codes = {
 
 
 for k, v in codes.items():
-    img = qrcode.make(v, image_factory=factory)
-    img.save(k+'.svg')
+    img = qrcode.make(v)#, image_factory=factory)
+    img.save(k+'.png')
     
